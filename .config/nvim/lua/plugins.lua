@@ -8,6 +8,8 @@ vim.cmd([[
 
 return require('packer').startup(function(use)
 	use("wbthomason/packer.nvim")
+  -- colors
+	use("norcalli/nvim-colorizer.lua")
   
   use { 'smithbm2316/centerpad.nvim' }
 	-- Themes

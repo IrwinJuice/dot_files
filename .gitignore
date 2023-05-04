@@ -36,6 +36,8 @@ Workspace
 .zcompdump
 zsh-syntax-highlighting
 .zsh_history
+.var
+.zoom
 
 
 

@@ -4,6 +4,7 @@ set.tabstop = 2
 set.softtabstop = 2
 set.shiftwidth = 2
 set.expandtab = true
+set.termguicolors = true
 
 set.number = true                         -- Line numbers
 set.relativenumber = true
