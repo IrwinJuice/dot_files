@@ -4,7 +4,7 @@ timedatectl set-timezone Europe/Kyiv
 ```
 
 ## GitHub
-For Auth on GitHub from terminal easiest way is using [GitHub CLI](https://github.com/cli/cli#installation)" 
+For Auth on GitHub from terminal easiest way is using [GitHub CLI](https://github.com/cli/cli#installation) 
 
 ## NVIDIA
 -   Download Nvidia driver
